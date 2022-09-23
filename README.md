@@ -12,6 +12,12 @@ git clone https://github.com/UWMooneyLab/VEDx.git
 cd VEDx
 ```
 
+Get git submodules
+```
+git submodule init
+git submodule update
+```
+
 Use pip install on the requirements file to download dependances
 ```
 pip install -r requirements.txt
